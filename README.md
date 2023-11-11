@@ -6,11 +6,7 @@ This  Todo List App is a React-based web application that allows users to manage
 
 - **Ethereum Blockchain Integration**: Interact with smart contracts to manage tasks.
 - **Add, Complete, Modify, and Delete Tasks**: Full CRUD functionality for task management.
-- **Loading States**: Informative UI during data fetching and transaction processing.
-- **Task Filtering and Sorting**: View tasks based on completion status and sort them.
-- **Local Storage**: Preserves user input even after page refresh.
-- **Responsive Design**: Compatible with both desktop and mobile devices.
-- **Accessible UI**: Designed with accessibility in mind.
+
 
 ## Getting Started
 
