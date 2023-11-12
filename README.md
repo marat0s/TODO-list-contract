@@ -20,7 +20,7 @@ This  Todo List App is a React-based web application that allows users to manage
 
 1. Clone the repository:
    ```bash
-   git clone [[repository URL]](https://github.com/marat0s/TODO-list-contract.git)
+   git clone https://github.com/marat0s/TODO-list-contract.git
    ```
 2. Install NPM packages:
    ```bash
